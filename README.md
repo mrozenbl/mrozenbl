@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm a developer from New York, USA.
+I'm a developer from New York, USA.  
+
+- 🔭 I’m currently working on various machine learning projects.
+
 
 <!--
 **mrozenbl/mrozenbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
